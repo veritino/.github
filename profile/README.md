@@ -1,9 +1,8 @@
 ## Hello
 ![veritino-banner](https://github.com/veritino/.github/assets/156060902/ab6b3fc2-630a-487d-be40-80e258aa187d)
 ## About
-Veritino is development Team. <br>
-Since our technology is still in its infancy, we established this organization as a way to learn and practice our skills as well. <br>
-The following commit message rules, version rules, and naming rules should be used: [Axuata Stand](https://axuata.notion.site/Axuata-Stand-35e1d1d2850340e3afc8d41f6cf00f25)
+Veritinoは新しい開発チームです。
+技術を練習し実践するためにこの組織を設立しました。
 ## Frameworks
 | Platform | Framework / Language |
 | --- | --- |
