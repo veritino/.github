@@ -1,4 +1,5 @@
 ## Hello
+![veritino-banner](https://github.com/veritino/.github/assets/156060902/4669f029-5ab2-4981-905c-92cef006d465)
 ## About
 Veritino is development Team. <br>
 Since our technology is still in its infancy, we established this organization as a way to learn and practice our skills as well. <br>
