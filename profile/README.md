@@ -14,3 +14,6 @@ The following commit message rules, version rules, and naming rules should be us
 1. All Rights Reserved: ```© 2024 - 2024 Veritino - All Rights Reserved```
 2. MIT license: ```© 2024 - 2024 Veritino - [MIT](https://opensource.org/license/mit)```
 3. CC BY-SA license: ```© 2024 - 2024 Veritino - [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)```
+## Name Rules
+1. Normal - Veritino
+2. in Code - veritino
