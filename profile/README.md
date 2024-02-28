@@ -16,3 +16,6 @@ Veritinoは新しい開発チームです。
 ## Name Rules
 1. Normal - Veritino
 2. in Code - veritino
+## Domain
+- veritino.org
+- org.veritino(group id)
