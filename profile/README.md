@@ -18,6 +18,9 @@ Veritinoは新しい開発チームです。
 ## Name Rules
 1. Normal - Veritino
 2. in Code - veritino
+## Project Name Rules
+1. Website, Webapp - Veritinoにプロジェクトの種類を付ける（例：Veritino + Blog = Veriblog, Veritino + Bot = Veribot）
+2. Desktop - 独自の名前（ただしシンプルなもの）（例：Letters）
 ## Domain
 - veritino.org
 - org.veritino(group id)
