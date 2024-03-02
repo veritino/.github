@@ -8,7 +8,8 @@ Veritinoは新しい開発チームです。
 | --- | --- |
 | Desktop (Windows) | .NET Framework (Winforms) |
 | Desktop (multiplatform) | JavaFX |
-| Front-end (basically) | Vite + Typescript + Svelte |
+| Front-end (basically, Svelte SPA) | Vite + Typescript + Svelte |
+| Front-end (basically, Svelte MPA) | Vite + Typescript + SvelteKit |
 | Front-end (other) | HTML + CSS + JS |
 ## Copyright
 1. All Rights Reserved: ```© 2024 - 2024 Veritino - All Rights Reserved```
