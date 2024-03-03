@@ -11,6 +11,7 @@ Veritinoは新しい開発チームです。
 | Front-end (basically, Svelte SPA) | Vite + Typescript + Svelte |
 | Front-end (basically, Svelte MPA) | Vite + Typescript + SvelteKit |
 | Front-end (other) | HTML + CSS + JS |
+| Framework (Front-end) | それぞれで決める |
 ## Copyright
 1. All Rights Reserved: ```© 2024 - 2024 Veritino - All Rights Reserved```
 2. MIT license: ```© 2024 - 2024 Veritino - [MIT](https://opensource.org/license/mit)```
@@ -21,6 +22,7 @@ Veritinoは新しい開発チームです。
 ## Project Name Rules
 1. Website, Webapp - Veritinoにプロジェクトの種類を付ける（例：Veritino + Blog = Veriblog, Veritino + Bot = Veritibot）
 2. Desktop - 独自の名前（ただしシンプルなもの）（例：Letters）
+3. Other - 独自の名前（ただしシンプルなもの）
 ## Domain
 - veritino.org
 - org.veritino(group id)
