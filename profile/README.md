@@ -3,27 +3,10 @@
 ## About
 Veritinoは新しい開発チームです。
 技術を練習し実践するためにこの組織を設立しました。<br>
-Wiki: https://veritino.notion.site/Veritino-Wiki-73cd87a7f6a74d11900bba37e83e9c01?pvs=74
-## Frameworks
-| Platform | Framework / Language |
-| --- | --- |
-| Desktop (Windows) | .NET Framework (Winforms) |
-| Desktop (multiplatform) | JavaFX, .NET Core |
-| Front-end (basically, Svelte SPA) | Vite + Typescript + Svelte + svelte-spa-router |
-| Front-end (basically, Svelte MPA) | Vite + Typescript + Svelte + svelte-routing|
-| Front-end (other) | HTML + CSS + JS |
-| Framework (Front-end) | それぞれで決める |
-## Copyright
-1. All Rights Reserved: ```© 2024 - 2024 Veritino - All Rights Reserved```
-2. MIT license: ```© 2024 - 2024 Veritino - [MIT](https://opensource.org/license/mit)```
-3. CC BY-SA license: ```© 2024 - 2024 Veritino - [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)```
+**Wiki(規則など): https://veritino.notion.site/Veritino-Wiki-73cd87a7f6a74d11900bba37e83e9c01?pvs=74**
 ## Name Rules
 1. Normal - Veritino
 2. in Code - veritino
-## Project Name Rules
-1. Website, Webapp - Veritinoにプロジェクトの種類を付ける（例：Veritino + Blog = Veriblog, Veritino + Bot = Veritibot）
-2. Desktop - 独自の名前（ただしシンプルなもの）（例：Letters）
-3. Other - 独自の名前（ただしシンプルなもの）
 ## Domain
 - veritino.org
 - org.veritino(group id)
